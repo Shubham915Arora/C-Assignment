@@ -1,0 +1,57 @@
+###################################PDS/BIGDATA/HOME ASSIGNMENT/MODULE-1################################################
+###################################    Date of Submission: 12/09/2017  ################################################
+INSTRUCTIONs. TOTAL INTERNAL MARKS : 30
+	A. Need to write all 30 program by yourself only.
+	B. Execute all the program on GCC compiler.
+	C. In word document you need to write question first the the corresponding algorithm, then program code, and then the screen shot of output, 	   	   save the word file as yourname_last-two-digit-rollno.docx (eg. Aaditya01.docx
+	D. In every question you need to print your name first on output screen, 
+        E. Send it to it your CRs, (Diksha from B1 and Ritika from B2)
+        F. After collecting all files, one CR(Diksha from B1 and Ritika from B2) will send the same to achoudhury@ddn.upes.ac.in from his/her 	   	   college email id.
+        H. No need to submit hard copy.
+
+Write a
+1. 	C Program to Convert the given Binary Number into Decimal 
+2.	C Program to Find the Biggest of 3 Numbers
+3.	C Program to Reverse a Given Number
+4.	C Program to Find the Sum of two Binary Numbers
+5.	C Program to Find factoral of a number
+6.	C Program to Check whether a given Number is Armstrong
+7.	C Program to Check whether a given Number is Perfect Number (A perfect number: a number is perfect when the sum of its divisors (except the 									number itself) equals the given number. eg. 28, divisor 1,2,4,7,14 the sum of 									1+2+4+7+14=28)
+8.	C Program to Print Armstrong Number from 1 to 1000
+9.	C Program to Add two Complex Numbers
+10.	C Program to print ODD numbers from 1 to 10
+11.	C Program to Find the Sum of first 50 Natural Numbers using For Loop
+12.	C Program to Swap the Contents of two Numbers using Bitwise XOR Operation
+13.	C Program to Multiply given Number by 4 using Bitwise Operators 
+14.	C Program to Reverse a Number & Check if it is a Palindrome
+15.	C Program to Find if a given Year is a Leap Year 
+16.	C Program to Print any Print Statement without using Semicolon 
+17.	C Program to find whether a number is divisible by ‘11’ or not without actual division.
+18.	C Program to print “PASCAL TRIANGLE” 
+		 1
+	       1   1
+             1   2   1
+           1  3    3   1
+       	 1  4    6   4   1
+19. 	C Program to natural number from 1 to 10 by using while loop.
+20. 	C Program to accept a three digit number and print the sum of individual digits.
+21. 	C Program to print natural numbers from 1 to 10 in Reverse
+22. 	C Program to print sum of the natural numbers from 1 to 10.
+23.	C Program to find biggest of two no by using ternary numbers
+24.	C Program to print the floyd’s triangle.
+	1
+	2 3
+	4 5 6
+	7 8 9 10
+25. 	C program to find sum of all natural numbers using for loop.Series: 1+2+3+4+..N	
+26.	C program to find sum of the square of all natural numbers from 1 to N using for loop. Series: 1^2+2^2+3^2+4^2+..N^2
+27.	C program to find sum of following series:1+ 1/2 + 1/3 + 1/4 + 1/5 + .. 1/N
+28.	C program to Check VOWEL or CONSONANT program using switch statement.
+29.	C program to design calculator with basic operations using switch.
+30. 	C program to check whether number is POSITIVE, NEGATIVE or ZERO until user doesn't want to exit.
+
+
+
+
+
+
